@@ -18,7 +18,7 @@ Hi! I’m Diego Cardenas-Wallenfelt, a sophomore studying Mechanical Engineering
 - Interests: CAD, 3D printing, PCB design, RC planes, drones
 - Looking for: **Mechanical/Design/Manufacturing internships**
 
-[Download Resume](/resume/resume.pdf) · <a href="mailto:dtcardenaswallenfelt@gmail.com">your.email@example.com</a> · <a href="www.linkedin.com/in/diego-cardenas-wallenfelt-697046269" target="_blank">LinkedIn</a>
+[Download Resume](/resume/resume.pdf.pdf) · <a href="mailto:dtcardenaswallenfelt@gmail.com">your.email@example.com</a> · <a href="www.linkedin.com/in/diego-cardenas-wallenfelt-697046269" target="_blank">LinkedIn</a>
 
 ---
 
