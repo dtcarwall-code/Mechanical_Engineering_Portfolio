@@ -1,0 +1,1 @@
+Add images (CAD renders, plots, prototype photos) here. Reference them as /assets/images/your-file.jpg in Markdown.
