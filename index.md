@@ -1,24 +1,24 @@
 ---
-title: Home
+title: Portfolio
 ---
 
-# First Last
+# Diego Cardenas-Wallenfelt
 
-**Mechanical Engineering @ Cal Poly Pomona**  
+**Mechanical Engineering at California Polytechnic University Pomona**  
 **Formula SAE – Clutch & Shifter Captain**
 
-> Portfolio focused on FSAE design cycles, CAD, prototyping, and controls. Last updated: {{ site.time | date: "%B %Y" }}
+> Portfolio focused on Formula SAE projects, personal projects, and school-affiliated projects. Last updated: {{ site.time | date: "%B %Y" }}
 
 ---
 
 ## About
-I'm a sophomore mechanical engineering student at CPP working on Formula SAE powertrain controls. I lead design work for the clutch & shifter subsystems, focusing on **full CAD design, sizing, manufacturability, and integration** across the yearly design cycle. Current R&D: an **electronic clutch system** with programmable actuation.
+Hi! I’m Diego Cardenas-Wallenfelt, a sophomore studying Mechanical Engineering at California State Polytechnic University, Pomona. I’m passionate about mechanical design, automotive engineering, and robotics, with hands-on experience through projects and Formula SAE. I’m actively seeking internships and always open to connecting—feel free to reach me at **dtwallenfelt@cpp.edu**
 
 - GPA: **3.53**
 - Interests: CAD, 3D printing, PCB design, RC planes, drones
 - Looking for: **Mechanical/Design/Manufacturing internships**
 
-[Download Resume](/resume/resume.pdf) · <a href="mailto:your.email@example.com">your.email@example.com</a> · <a href="https://www.linkedin.com/in/your-link/" target="_blank">LinkedIn</a> · <a href="https://github.com/your-username" target="_blank">GitHub</a>
+[Download Resume](/resume/resume.pdf) · <a href="mailto:dtcardenaswallenfelt@gmail.com">your.email@example.com</a> · <a href="www.linkedin.com/in/diego-cardenas-wallenfelt-697046269" target="_blank">LinkedIn</a>
 
 ---
 
