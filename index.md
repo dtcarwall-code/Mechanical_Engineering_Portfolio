@@ -15,7 +15,7 @@ title: Portfolio
 Hi! I’m Diego Cardenas-Wallenfelt, a sophomore studying Mechanical Engineering at California State Polytechnic University, Pomona. I’m passionate about mechanical design, automotive engineering, and robotics, with hands-on experience through projects and Formula SAE. I’m actively seeking internships and always open to connecting—feel free to reach me at **dtwallenfelt@cpp.edu**
 
 - GPA: **3.53**
-- Interests: CAD, 3D printing, PCB design, RC planes, drones
+- Interests: CAD, 3D printing, PCB design, music, running
 - Looking for: **Mechanical/Design/Manufacturing internships**
 
 [Download Resume](/resume/resume.pdf.pdf) · <a href="mailto:dtcardenaswallenfelt@gmail.com">your.email@example.com</a> · <a href="www.linkedin.com/in/diego-cardenas-wallenfelt-697046269" target="_blank">LinkedIn</a>
@@ -53,4 +53,3 @@ Hi! I’m Diego Cardenas-Wallenfelt, a sophomore studying Mechanical Engineering
 ## Contact
 - Email: <a href="mailto:your.email@example.com">your.email@example.com</a>  
 - LinkedIn: <a href="https://www.linkedin.com/in/your-link/" target="_blank">your-link</a>  
-- GitHub: <a href="https://github.com/your-username" target="_blank">@your-username</a>
