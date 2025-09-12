@@ -9,6 +9,8 @@ title: Portfolio
 
 > Portfolio focused on Formula SAE projects, personal projects, and school-affiliated projects. Last updated: {{ site.time | date: "%B %Y" }}
 
+![Clutch Concept](/assets/images/FSAE_CAR_PHOTO.webp)
+
 ---
 
 ## About
