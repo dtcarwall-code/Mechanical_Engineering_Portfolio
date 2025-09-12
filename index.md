@@ -51,5 +51,5 @@ Hi! I’m Diego Cardenas-Wallenfelt, a sophomore studying Mechanical Engineering
 ---
 
 ## Contact
-- Email: <a href="mailto:your.email@example.com">your.email@example.com</a>  
-- LinkedIn: <a href="https://www.linkedin.com/in/your-link/" target="_blank">your-link</a>  
+- Email: <a href="mailto:dtcardenaswallenfelt@gmail.com">dtcardenaswallenfelt@gmail.com</a>  
+- LinkedIn: <a href="www.linkedin.com/in/diego-cardenas-wallenfelt-697046269" target="_blank">your-link</a>  
