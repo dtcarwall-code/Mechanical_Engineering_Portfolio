@@ -16,7 +16,6 @@ title: Portfolio
 ## About
 Hi! I’m Diego Cardenas-Wallenfelt, a sophomore studying Mechanical Engineering at California State Polytechnic University, Pomona. I’m passionate about mechanical design, automotive engineering, and robotics, with hands-on experience through projects and Formula SAE. I’m actively seeking internships and always open to connecting—feel free to reach me at **dtwallenfelt@cpp.edu**
 
-- GPA: **3.53**
 - Interests: CAD, 3D printing, PCB design, music, running
 - Looking for: **Mechanical/Design/Manufacturing internships**
 
@@ -27,19 +26,19 @@ Hi! I’m Diego Cardenas-Wallenfelt, a sophomore studying Mechanical Engineering
 ## Featured Projects
 
 - **Formula SAE — Clutch & Shifter (Captain)**  
-  R&D of an **electronic clutch system** (programmable positions and timing), research on aftermarket clutch kits (e.g., Suter), and integration with drivetrain & electronics.  
+  R&D of an **electronic clutch system**, as well as development of a pneumatic shifting system and sizing tool for cylinders and tank volumes, ensuring performance within safety factors; improved understanding of fluid power systems.    
   ➜ [Read more](./projects/fsae.md)
 
 - **Personal Projects**  
-  Sizing tool for cylinders and tank volumes, ensuring performance within safety factors; improved understanding of fluid power systems.  
+  I have done a variety of personal projects over the years, many including 3d modeling and design of mechanical components. Have worked with 3d printing as well as PCB design and manufacturing. Self-directed design/print work across tools, fixtures, and models; SolidWorks/Onshape + slicer workflow.
   ➜ [Details](./projects/pneumatic-calculator.md)
 
-- **Liquid Rocket Club (Condensed)**  
-  Converging-diverging nozzle for RP‑1/LOX using NASA CEA + SolidWorks CFD; brief turbine analysis before leaving project.  
+- **Liquid Rocket Club**  
+  Converging-diverging nozzle for RP‑1/LOX using NASA CEA + SolidWorks CFD; radial turbine analysis and design.  
   ➜ [One-pager](./projects/rocket-nozzle.md)
 
 - **3D Printing & CAD Model Repository**  
-  Self-directed design/print work across tools, fixtures, and models; SolidWorks/Onshape + slicer workflow.  
+    Photos and videos of some of my past projects.
   ➜ [Gallery](./projects/3d-printing.md)
 
 ---
