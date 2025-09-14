@@ -27,23 +27,19 @@ Hi! I’m Diego Cardenas-Wallenfelt, a sophomore studying Mechanical Engineering
 
 - **Formula SAE — Clutch & Shifter (Captain)**  
   R&D of an **electronic clutch system**, as well as development of a pneumatic shifting system and sizing tool for cylinders and tank volumes, ensuring performance within safety factors; improved understanding of fluid power systems.    
-
-  ➜ [Read more](./projects/fsae.md)
+  ➜ [Details](./projects/fsae.md)   
 
 - **Personal Projects**  
-  I have done a variety of personal projects over the years, many including 3d modeling and design of mechanical components. Have worked with 3d printing as well as PCB design and manufacturing. Self-directed design/print work across tools, fixtures, and models; SolidWorks/Onshape + slicer workflow.
-
-   ➜ [Details](./projects/pneumatic-calculator.md)
+  I have done a variety of personal projects over the years, many including 3d modeling and design of mechanical components. Have worked with 3d printing as well as PCB design and manufacturing. Self-directed design/print work across tools, fixtures, and models; SolidWorks/Onshape + slicer workflow.             
+   ➜ [Details](./projects/pneumatic-calculator.md)   
 
 - **Liquid Rocket Club**  
-  Converging-diverging nozzle for RP‑1/LOX using NASA CEA + SolidWorks CFD; radial turbine analysis and design.  
-
-   ➜ [One-pager](./projects/rocket-nozzle.md)
+  Converging-diverging nozzle for RP‑1/LOX using NASA CEA + SolidWorks CFD; radial turbine analysis and design.                  
+   ➜ [Details](./projects/rocket-nozzle.md)       
 
 - **3D Printing & CAD Model Repository**  
-    Photos and videos of some of my past projects.
-
-   ➜ [Gallery](./projects/3d-printing.md)
+    Photos and videos of some of my past projects.                            
+   ➜ [Gallery](./projects/3d-printing.md)                   
 
 ---
 
