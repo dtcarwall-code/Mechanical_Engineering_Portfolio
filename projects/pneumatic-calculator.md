@@ -1,14 +1,15 @@
 ---
-title: Pneumatic Shifter/Clutch Calculator
+title: Arduino + Custom PCB (Simon Says)
 ---
 
-# Pneumatic Shifter/Clutch Calculator
+# Arduino + Custom PCB (Simon Says)
 
-**Goal:** Determine the appropriate pneumatic cylinder and tank size to achieve target actuation performance **with a safety factor**, minimizing mass and package volume.
+**Stack:** KiCad (schematic/PCB), Arduino (C++), LCD, buttons, 3D-printed enclosure.
 
-## Highlights
-- Modeled force, pressure, and volume relationships to set cylinder bore/stroke and tank size.  
-- Considered duty cycle, regulator settings, line losses, and response time targets.  
-- Delivered a simple tool to guide **component selection** and communicate tradeoffs with the team.
+## What I Built
+- Designed a **custom PCB** in KiCad to integrate with an Arduino microcontroller.  
+- Programmed game logic, LED control, button debouncing, and LCD I/O in **C++**.  
+- Printed a durable **enclosure** and mounted components for a finished device.
 
+_Add PCB renders, code snippets, and enclosure photos here._
 _Add figures or screenshots here._
