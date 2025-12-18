@@ -32,4 +32,9 @@ Formula SAE is a full **yearly engineering design cycle**: requirements → conc
 - Used **Git-based collaboration**, BOM/version control, and manufacturing drawings to hand off to fab.  
 - Preparing for **FSAE Michigan 2025**; deliverables cover design documentation, tech inspection readiness, and on-track testing.
 
-> ![Clutch Concept](/assets/images/CamScanner 12-18-25 12.42_12.jpg)
+![CamScanner 12-18-25 12 42_12](https://github.com/user-attachments/assets/c54d69cf-296d-4be5-9357-3d390f2b9c80)
+![CamScanner 12-18-25 12 42_8](https://github.com/user-attachments/assets/0bda2117-f9bf-494f-aaa1-09834edfd176)
+![CamScanner 12-18-25 12 42_5](https://github.com/user-attachments/assets/1cafa8c6-d91e-47db-a5a9-4e7cc072592a)
+![CamScanner 12-18-25 12 42_6](https://github.com/user-attachments/assets/f09edee0-8496-4d4d-aa64-f3b61ad14574)
+
+
