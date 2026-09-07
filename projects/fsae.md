@@ -32,6 +32,15 @@ Formula SAE is a full **yearly engineering design cycle**: requirements → conc
 - Used **Git-based collaboration**, BOM/version control, and manufacturing drawings to hand off to fab.  
 - Preparing for **FSAE Michigan 2025**; deliverables cover design documentation, tech inspection readiness, and on-track testing.
 
+## System Summary
+
+The design summary below brings the clutch and shifter work together: component sizing, actuation calculations, fabrication choices, and the validation plan used to move both systems toward vehicle integration.
+
+<figure class="portfolio-figure">
+  <img src="{{ '/assets/images/fsae-clutch-shifter-summary.png' | relative_url }}" alt="Formula SAE clutch and shifter design, build, and validation summary">
+  <figcaption>Clutch and shifter design, manufacturing, and validation overview.</figcaption>
+</figure>
+
 ![CamScanner 12-18-25 12 42_12](https://github.com/user-attachments/assets/c54d69cf-296d-4be5-9357-3d390f2b9c80)
 
 ![CamScanner 12-18-25 12 42_6](https://github.com/user-attachments/assets/f09edee0-8496-4d4d-aa64-f3b61ad14574)
@@ -65,7 +74,6 @@ Formula SAE is a full **yearly engineering design cycle**: requirements → conc
 <img width="1113" height="626" alt="Screenshot 2025-12-18 130207" src="https://github.com/user-attachments/assets/9491dbd8-a5df-489b-a540-3c0c086561d0" />
 
 <img width="1116" height="631" alt="Screenshot 2025-12-18 130215" src="https://github.com/user-attachments/assets/609c17e0-870d-4190-be40-28a46a4656e6" />
-
 
 
 
