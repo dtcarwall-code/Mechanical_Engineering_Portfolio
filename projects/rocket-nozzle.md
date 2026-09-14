@@ -1,28 +1,23 @@
 ---
-title: Liquid Rocket Club (Condensed)
+title: Liquid Rocket Club
 ---
 
-# Liquid Rocket Club (Condensed)
+# Liquid Rocket Club
 
-**Focus:** Converging–diverging nozzle for **RP‑1/LOX** using **NASA CEA** and SolidWorks flow simulations.
+**Focus:** Early-stage liquid-propulsion analysis  
+**Tools:** NASA CEA · SolidWorks · Engineering calculations
 
-## Summary
-- Performed expansion ratio and performance calculations; created CAD and ran preliminary CFD.  
-- Contributed to radial inflow turbine sizing analysis (nitrogen properties, pressure ratios, NsDs charts).  
-- Departed the project early — included here for context on propulsion analysis experience.
+## Project Scope
 
-## Flow Simulation
+I contributed to preliminary analysis for a converging–diverging nozzle using RP-1/LOX combustion products. The work connected thermochemical outputs to nozzle geometry and early design decisions.
 
-I used SolidWorks Flow Simulation to visualize internal recirculation, velocity distribution, and pressure behavior across competing intake geometries. These studies helped connect the CAD geometry to the flow behavior and identify regions where the design could be refined.
+- Used NASA CEA outputs to support chamber and nozzle performance calculations.
+- Explored expansion ratio and converging–diverging nozzle geometry in CAD.
+- Performed preliminary flow-analysis work to connect geometry with expected behavior.
+- Contributed to radial-inflow turbine sizing analysis using pressure ratios, nitrogen properties, and specific-speed/specific-diameter methods.
 
-<figure class="portfolio-figure">
-  <img src="{{ '/assets/images/rocket-intake-2x2-flow.png' | relative_url }}" alt="SolidWorks CFD flow trajectories through the 2x2 intake concept">
-  <figcaption>Velocity-colored flow trajectories through the 2x2 intake concept.</figcaption>
-</figure>
+## Takeaway
 
-<figure class="portfolio-figure">
-  <img src="{{ '/assets/images/rocket-intake-4x1-pressure.png' | relative_url }}" alt="SolidWorks CFD pressure and velocity trajectories through the 4x1 intake concept">
-  <figcaption>Pressure and velocity trajectories through the earlier 4x1 intake concept.</figcaption>
-</figure>
+This was an early project, but it gave me practical experience moving from thermodynamic assumptions to geometry, simulation inputs, and design tradeoffs. I left the project before hardware testing, so the scope shown here is intentionally limited to the analysis I personally completed.
 
 [← Back to portfolio]({{ '/' | relative_url }})
